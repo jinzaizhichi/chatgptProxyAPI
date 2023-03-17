@@ -54,8 +54,6 @@
 **[详细教程](./docs/cloudflare_pages.md)**
 
 
-<<<<<<< HEAD
-=======
 ### docker 部署（要境外vps）
 
 ```bash
@@ -100,4 +98,3 @@ curl --location 'http://vpsip:3000/api/v1/chat/completions' \
  }'
 
 ```
->>>>>>> dev
